@@ -1,7 +1,7 @@
 # Salut, je suis Oumar 👋
 ## Senior Data Product Manager | Expert en Transformation Data & IA Prédictive
 
-Je construis des ponts entre la complexité des données brutes et la clarté de la décision stratégique (C-Level). J'accompagne les grandes organisations (dont actuellement **France Travail**) dans l'urbanisation de leurs systèmes et le passage d'une gestion réactive à un pilotage proactif par l'IA.
+Je construis des ponts entre la complexité des données brutes et la clarté de la décision stratégique. J'accompagne les grandes organisations (dont actuellement **France Travail**) dans l'urbanisation de leurs systèmes et le passage d'une gestion réactive à un pilotage proactif par l'IA.
 
 ### 🎯 Ma Proposition de Valeur
 Mon approche de Product Manager vise à résoudre des problématiques métiers coûteuses ou complexes via 3 piliers :
