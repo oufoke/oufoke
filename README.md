@@ -1,23 +1,28 @@
 # Salut, je suis Oumar 👋
-## Senior Data Product Manager | Expert en Transformation Data & IA Prédictive
+## Senior Data Product Manager | Gouvernance Data & IA Appliquée
 
-Je construis des ponts entre la complexité des données brutes et la clarté de la décision stratégique. J'accompagne les grandes organisations (dont actuellement **France Travail**) dans l'urbanisation de leurs systèmes et le passage d'une gestion réactive à un pilotage proactif par l'IA.
+6 ans à transformer des systèmes data complexes en produits décisionnels fiables — de la gouvernance institutionnelle à l'IA appliquée. Expert du delivery en environnement contraint : SI nationaux, données sensibles, interface DSI/Métier.
 
 ### 🎯 Ma Proposition de Valeur
-Mon approche de Product Manager vise à résoudre des problématiques métiers coûteuses ou complexes via 3 piliers :
-* **Gouvernance & DataOps :** Automatiser l'ingestion de données legacy (SAP, systèmes propriétaires), réduire la dette technique et garantir une *Data Quality* irréprochable.
-* **Business Intelligence (BI) :** Concevoir des architectures décisionnelles claires qui séparent le suivi opérationnel du pilotage stratégique (tableaux de bord ComEx).
-* **Forecasting & IA Appliquée :** Déployer des modèles prédictifs (Time Series, NLP) pour anticiper les budgets de millions d'euros, optimiser les investissements (CapEx/OpEx) et réduire les risques légaux/financiers.
 
-### 🏗️ Domaines d'Intervention & Expertises
-* **Asset Management & Immobilier :** Modélisation budgétaire et anticipation des coûts sur des parcs à l'échelle nationale (1000+ sites).
-* **Compliance & LegalTech :** Moteurs NLP pour l'audit sémantique massif (E-Discovery) et la gestion des risques.
-* **Supply Chain & Opérations :** Prévision de la demande et automatisation ITSM.
+* **Gouvernance & DataOps :** Audit de systèmes data existants, définition du processus cible, Quality Gates automatisés. Automatisation de pipelines legacy (SAP) — 3 jours de traitement mensuel supprimés.
+* **BI & Pilotage Stratégique :** Audit, refonte et livraison de tableaux de bord décisionnels (Digdash · Power BI) à l'échelle nationale. Séparation suivi opérationnel / pilotage C-Level.
+* **IA Appliquée (NLP / GenAI / ML) :** Pipeline NLP Zero-Shot — investigation 3 semaines → 4h sur 3 600+ documents. B2B Lead Scoring XGBoost (89% accuracy). Architectures multi-agents CrewAI.
 
-### 🛠️ Ma Stack 
-* **Product & Stratégie :** OKRs, PRD, MLOps Lifecycle, Design de solutions.
-* **Data Science :** Python, SQL, Prophet, NLP (Topic Modeling).
-* **Data Viz :** PowerBI, Digdash, Streamlit.
+### 🏗️ Domaines d'Intervention
+
+* **Immobilier & Asset Management :** Audit, modélisation et pilotage de parcs immobiliers nationaux (SPSI · RE-FX · Décret Tertiaire · 1 000+ sites).
+* **LegalTech & Compliance :** Moteurs NLP forensiques pour audit sémantique massif (E-Discovery · RGPD · AI Act).
+* **Emploi & Politiques Publiques :** Production et industrialisation d'indicateurs stratégiques nationaux (datemploi · INSEE · DARES).
+
+### 🛠️ Stack
+
+* **Product :** OKRs · PRD · MLOps Lifecycle · Backlog · Stakeholder Management
+* **Data Science & IA :** Python · XGBoost · Prophet · NLP (mDeBERTa, RAG, Zero-Shot) · LangChain · CrewAI
+* **Data Engineering :** SQL · SAS · VBA · SAP RE-FX · API REST
+* **BI & Viz :** Power BI · DAX · Digdash Studio · Streamlit
+* **DevOps :** GitOps · CI/CD · Docs-as-Code
 
 ---
-📫 **Me contacter :** [Connectons-nous sur LinkedIn](https://www.linkedin.com/in/oumar-fode-kebe/) pour échanger sur vos enjeux de transformation Data, d'automatisation ou de pilotage de la performance.
+
+📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/oumarfodek/) · [Portfolio](https://oufoke.github.io)
